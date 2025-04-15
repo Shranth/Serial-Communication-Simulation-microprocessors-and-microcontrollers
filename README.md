@@ -40,3 +40,7 @@ Connect TX of Transmitter to RX of Receiver.
 Set both MCUs to 11.0592 MHz clock.
 Run simulation and press switches.
 Watch the LCD on Receiver display the message.
+
+
+![image](https://github.com/user-attachments/assets/cb4efa91-1b3e-4aeb-9c4e-a7c2efed4f17)
+
